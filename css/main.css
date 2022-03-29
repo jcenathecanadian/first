@@ -1,1 +1,12 @@
+@import url(/css/normalize.css);
+@import url(/css/layout.css);
+@import url(/css/header.css);
+@import url(/css/logo.css);
+@import url(/css/breadscrumbs.css);
+@import url(/css/sidebar.css);
+@import url(/css/page.css);
+@import url(/css/footer.css);
+@import url(/css/copyright.css);
+@import url(/css/social.css);
 * {box-sizing: border-box}
+
